@@ -1,6 +1,4 @@
-# @REQ_CALC-7905
-# @REQ_CALC-632
-@REQ_CALC-632
+@REQ_COM-1
 Feature: As a user, I can login the applicaiton
 
 Scenario: Valid Login

@@ -1,6 +1,4 @@
-# @REQ_CALC-7906
-# @REQ_CALC-633
-@REQ_CALC-633
+@REQ_COM-1
 Feature: As a user, I can logout the application
 
 Scenario: Valid Logout
